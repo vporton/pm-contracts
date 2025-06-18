@@ -1,4 +1,4 @@
-requests==2.5.3
+requests==2.32.4
 click==5.1
 mpmath==0.19
 pytest==3.1.0
